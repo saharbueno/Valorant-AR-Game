@@ -1,0 +1,11 @@
+Model Information:
+* title:	Immortal
+* source:	https://sketchfab.com/3d-models/immortal-d17e9cf3fb264f64ad3f5160f315b4c0
+* author:	lamborado (https://sketchfab.com/lamborado)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Immortal" (https://sketchfab.com/3d-models/immortal-d17e9cf3fb264f64ad3f5160f315b4c0) by lamborado (https://sketchfab.com/lamborado) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

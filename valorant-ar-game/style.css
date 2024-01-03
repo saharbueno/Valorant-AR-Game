@@ -1,0 +1,145 @@
+.desktop {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: rgba(255, 255, 255, 1);
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: transparent;
+  background: linear-gradient(180deg, rgb(255, 216.27, 237.19) 0%, rgba(255, 255, 255, 0) 100%);
+  width: 100vw; 
+  height: 100vh;
+  position: relative;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 590px;
+  top: 434px;
+  left: 0;
+}
+
+.desktop .v-bug-negative-red {
+  position: absolute;
+  width: 1440px;
+  height: 553px;
+  top: 36px;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .the-site-you-are {
+  position: absolute;
+  width: 787px;
+  top: 0;
+  left: 327px;
+  background: linear-gradient(180deg, rgb(0, 0, 0) 32.29%, rgb(230.4, 75.63, 140.63) 68.23%, rgb(0, 0, 0) 94.79%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Kosugi", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .dizzy {
+  position: absolute;
+  width: 147px;
+  height: 152px;
+  top: 210px;
+  left: 368px;
+  transform: rotate(180deg);
+}
+
+.desktop .img {
+  position: absolute;
+  width: 155px;
+  height: 160px;
+  top: -8px;
+  left: -4px;
+  transform: rotate(-180deg);
+  object-fit: cover;
+}
+
+.desktop .click-dizzy-to {
+  position: absolute;
+  width: 518px;
+  top: 269px;
+  left: 585px;
+  background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgb(221, 83, 141) 97.92%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Kosugi", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .arrow {
+  position: absolute;
+  width: 62px;
+  height: 15px;
+  top: 278px;
+  left: 514px;
+}
+
+.desktop .v-lockup-vertical {
+  position: absolute;
+  width: 348px;
+  height: 203px;
+  top: 52px;
+  left: 546px;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 388px;
+  left: 664px;
+  font-family: "Kosugi", Helvetica;
+  font-weight: 400;
+  color: #ff4655;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box {
+  position: relative;
+  width: 865px;
+  height: 454px;
+}
+
+#creditBox {
+  margin-top: 200px;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#cred {
+  margin: 200px;
+  width: 800px;
+  height: auto;
+}

@@ -1,0 +1,32 @@
+.box {
+  position: relative;
+  width: 865px;
+  height: 454px;
+}
+
+.box .group {
+  position: fixed;
+  width: 867px;
+  height: 454px;
+  top: 0;
+  left: 0;
+}
+
+.box .title-diamond-source {
+  position: absolute;
+  width: 865px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, rgb(0, 0, 0) 32.29%, rgb(230.4, 75.63, 140.63) 68.23%, rgb(0, 0, 0) 94.79%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Kosugi", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}

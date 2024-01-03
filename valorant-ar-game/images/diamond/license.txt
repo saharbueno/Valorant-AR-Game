@@ -1,0 +1,11 @@
+Model Information:
+* title:	Diamond
+* source:	https://sketchfab.com/3d-models/diamond-7f6b448f539b4312aeb152ca3e3d6ba2
+* author:	lamborado (https://sketchfab.com/lamborado)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Diamond" (https://sketchfab.com/3d-models/diamond-7f6b448f539b4312aeb152ca3e3d6ba2) by lamborado (https://sketchfab.com/lamborado) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
