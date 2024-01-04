@@ -17,6 +17,8 @@ A Valorant themed game where the user must use fiducial markers to control their
   <i>Landing page</i>
 </p>
 
+https://github.com/saharbueno/Valorant-AR-Game/assets/69322388/dc6a4bd0-7608-4e3c-adcd-58ac35e594a7
+
 <p align="center">
   <i>Play my game <a href="https://i6.cims.nyu.edu/~sb8249/interactive/assignment6/index.html">HERE.</a> Don't forget to have your markers, which can be downloaded <a href="https://github.com/saharbueno/Valorant-AR-Game/tree/c7e52609268ecf057a581156d974c719b864a03f/valorant-ar-game/marker">HERE.</a></i>
 </p>
