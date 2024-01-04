@@ -9,12 +9,17 @@
 A Valorant themed game where the user must use fiducial markers to control their Mosh left and right to catch 5 Dizzys and 5 Wingmans. Once the player wins, they receive a trophy! This game was built using AR in p5.js. Dizzy, Mosh, and Wingman art is by me. All characters, weapons, and ideas in this game are owned by Riot Games. 
 
 ## Visual Demo
+
+<p align="center">
+  <i>Landing page</i>
+</p>
+
 <p align="center">
   <img width="869" alt="Screenshot 2024-01-03 at 10 34 09 PM" src="https://github.com/saharbueno/Valorant-AR-Game/assets/69322388/cc6725a1-2a8a-498c-9ea4-16b02f3135b0">
 </p>
 
 <p align="center">
-  <i>Landing page</i>
+  <i>Game demo by <a href="https://github.com/larryyang04">Larry Yang</a></i>
 </p>
 
 https://github.com/saharbueno/Valorant-AR-Game/assets/69322388/dc6a4bd0-7608-4e3c-adcd-58ac35e594a7
